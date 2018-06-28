@@ -1,0 +1,2 @@
+test/components/*.js
+--timeout 100000
